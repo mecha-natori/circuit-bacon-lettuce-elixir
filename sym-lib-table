@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "circuit-bacon-lettuce-elixir")(type "KiCad")(uri "${KIPRJMOD}/circuit-bacon-lettuce-elixir.kicad_sym")(options "")(descr ""))
+)
